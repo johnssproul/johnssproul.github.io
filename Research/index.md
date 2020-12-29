@@ -1,4 +1,4 @@
-![SiteBannern](profile.png)
+![SiteBannern](./profile.png)
 
 ### [About](https://johnssproul.github.io/another-page.md)  [Research](https://johnssproul.github.io/Research/another-page.md)    [Teaching](https://johnssproul.github.io/Teaching/another-page.md)   [Mentorship](https://johnssproul.github.io/Mentoring/another-page.md)   [FieldWork](https://johnssproul.github.io/FieldWork/another-page.md)
 
