@@ -14,41 +14,11 @@ A current emphasis in the lab is to investigate rapid genome evolution that is t
 
 Repetitive DNA genomics is an emerging field, and as such, there are many opportunities to develop new bioinformatic tools. Our software development efforts focus on tools that enable efficient study of repetitive elements across phylogenetic scales. We continue to develop RepeatProfiler (https://github.com/johnssproul/RepeatProfiler) along with colleagues in the Larracuente Lab at the University of Rochester (kudos to the brilliant Sherif Negm, the first author and U of R undergraduate!). Our ongoing work includes development of a pipeline for detecting homology among satDNA sequences within and across species.
 
-### Biodiversity, species delimitation and taxonomy
-Discovering and documenting the planet's millions of species remains one of the grand challenges of science. A deep understanding of what species are present and evolutionary relationships among them lies at the foundation of most fields in biology. We seek to discover the patterns of biodiversity both as a field unto itself (i.e., taxonomy), and as a starting point for our evolutionary 
-
-#### species delimitation and taxonomy
-
-#### sequencing historical specimens
-
-
-### Repetitive DNA
-
-Large fractions of the DNA in most organisms are made up of repetitive DNA sequences... 
-
-My research focuses on comparative genomics of repetitive DNA. Repeats have been understudied for decades due to technical and computational challenges associated with their sequencing and assembly. As recent advances in sequencing technology overcome those obstacles, work in model organisms is shedding new light on the critical role of repeats in genome evolution at various scales. However, we know little about how repeat dynamics shape genome evolution in naturally evolving species across changing ecological landscapes. My research program integrates field work, data generation, and development of new computational workflows to investigate comparative repeat genomics across phylogenetic scales in insects, with an emphasis on ground beetles. Studying repeats in a comparative evolutionary framework that spans populations, species, and diverse clades is a powerful lens for understanding patterns, processes, and mechanisms that underlie genome evolution, repeat biology, and the diversification of life. My research forms a bridge between the biodiversity community and the comparative genomics community. My long-term interests include investigating links between ecological factors (e.g., environmental stress), rapid evolution of repetitive elements, and the process of speciation. I combine my research background in biodiversity (see below) with my training on repetitive DNA genomics to extend repetitive DNA genomics to natural populations of biodiverse groups, and investigate how repeats shape the evolution of genomes and species.
-
-#### Software develoment
-
 ![SiteBannern](../RepeatProfiler.png)
 
 New software connections to scale repetitive DNA genomics to diverse clades.
 
 ![SiteBannern](../RepeatPipelinesWorkflow.png)
 
-
-### Biodiversity
-
-#### species delimitation and taxonomy
-
-#### sequencing historical specimens
-
-#### field work
-
-
-## Teaching
-
-## Mentorship
-I believe that research and teaching activities should always serve as a vehicle of growth for students in the classroom and the laboratory...
-
-
+### Biodiversity, species delimitation and taxonomy
+Discovering and documenting the planet's millions of species remains one of the grand challenges of science. A deep understanding of what species are present and evolutionary relationships among them lies at the foundation of most fields in biology. We seek to discover the patterns of biodiversity both as a field unto itself (i.e., taxonomy), and as a starting point for studies in repetitive DNA dynamics that rely on the framework of species boundaries established by our taxonomic work. 
