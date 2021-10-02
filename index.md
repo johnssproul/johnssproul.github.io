@@ -1,6 +1,6 @@
 ![SiteBannern](elbow_cropped.png)
 
-##### [About](https://johnssproul.github.io/about.html)  [Research](https://johnssproul.github.io/Research.html)    [Teaching](https://johnssproul.github.io/Teaching.html)   [Mentoring](https://johnssproul.github.io/Mentoring.html)   [People](https://johnssproul.github.io/People.html)
+###### [About](https://johnssproul.github.io/about.html)  [Research](https://johnssproul.github.io/Research.html)    [Teaching](https://johnssproul.github.io/Teaching.html)   [Mentoring](https://johnssproul.github.io/Mentoring.html)   [People](https://johnssproul.github.io/People.html)
 
 * * *
 
