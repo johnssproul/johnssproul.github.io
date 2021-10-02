@@ -1,7 +1,8 @@
 ![SiteBannern](elbow_cropped.png)
 
-##### [About](https://johnssproul.github.io/about.html) \t [Research](https://johnssproul.github.io/Research.html)    [Teaching](https://johnssproul.github.io/Teaching.html)   [Mentoring](https://johnssproul.github.io/Mentoring.html)   [People](https://johnssproul.github.io/People.html)
+##### [About](https://johnssproul.github.io/about.html)  [Research](https://johnssproul.github.io/Research.html)    [Teaching](https://johnssproul.github.io/Teaching.html)   [Mentoring](https://johnssproul.github.io/Mentoring.html)   [People](https://johnssproul.github.io/People.html)
 
+* * *
 
 ### About
 I am a biologist studying repetitive DNA genomics as a postdoctoral researcher in Dr. Amanda Larracuente's Lab at the University of Rochester. I recieved my PhD in Integrative Biology from Oregon State University in 2018 under the mentorship of Dr. David Maddison. My PhD work focused on species delimitation, taxonomy, and repetitive DNA dynamics in ground beetles (Carabidae) in the _breve_ species group of _Bembidion_. Prior to my PhD I completed a Master's degree in Biology at Brigham Young University studying aquatic insect phylogeography under the mentorship of Dr. Dennis Shiozawa.
