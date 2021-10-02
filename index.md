@@ -1,10 +1,10 @@
 ![SiteBannern](elbow_cropped.png)
-
-#### [About](https://johnssproul.github.io/about.html) [Research](https://johnssproul.github.io/Research.html)    [Teaching](https://johnssproul.github.io/Teaching.html)   [Mentoring](https://johnssproul.github.io/Mentoring.html)   [People](https://johnssproul.github.io/People.html)
+* * *
+#### [[Home]](https://johnssproul.github.io/about.html)  [[Research]](https://johnssproul.github.io/Research.html)    [[Teaching]](https://johnssproul.github.io/Teaching.html)   [[People]](https://johnssproul.github.io/People.html) [[Mentoring]](https://johnssproul.github.io/Mentoring.html)   
 
 * * *
 
-### About
+### Home
 I am a biologist studying repetitive DNA genomics as a postdoctoral researcher in Dr. Amanda Larracuente's Lab at the University of Rochester. I recieved my PhD in Integrative Biology from Oregon State University in 2018 under the mentorship of Dr. David Maddison. My PhD work focused on species delimitation, taxonomy, and repetitive DNA dynamics in ground beetles (Carabidae) in the _breve_ species group of _Bembidion_. Prior to my PhD I completed a Master's degree in Biology at Brigham Young University studying aquatic insect phylogeography under the mentorship of Dr. Dennis Shiozawa.
 
 I love biology because I love the process of learning and discovery. The biological world is extraordinarily diverse and complex and I love challenge of discovering its diversity and understanding its complexity. I love learning alongside students and colleagues--discovering how we learn best and how to discover the answer to our next question. On this site I share a bit about about the passions I have discovered while pursuing a career in science. If you see something that strikes a chord on any topic feel free to send a note--it would be a pleasure to chat about your ideas or potential collaborations. 
